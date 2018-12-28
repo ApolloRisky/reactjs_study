@@ -1,6 +1,7 @@
 {
   "name": "get-started",
   "version": "1.0.0",
+  "homepage": "https://apollorisky.github.io/react-tutorial",
   "description": "",
   "main": "index.js",
   "scripts": {
